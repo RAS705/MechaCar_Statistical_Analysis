@@ -259,6 +259,7 @@ An example would be:
 <th></th>
 <th></th>
 </tr>
+</table>
 
 The interesting thing, is that AutosRUs lost the Coupe MPG comparison because Competitor 2 doesn't have a V8 in their offerings. The team calculated that if the V8's in AutoRUs's offerings were removed from the coupe average, AutosRUs would have an average miles per gallon for Coupes of 55.7. Easily besting all of their competition. 
 
